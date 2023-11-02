@@ -689,10 +689,17 @@ CHC动作电影,http://ainm.cc/a/play/php/gudou.php?id=chcdz
  求索动物,http://ainm.cc/a/play/php/gudou.php?id=qsdw
 
 
-港•澳•台,#genre#
+Foxriver,#genre#
 鳯凰中文,http://38.55.196.64/tw447/tw2.php?id=live1213
 鳯凰资讯,http://38.55.196.64/tw447/tw2.php?id=live1666
-中天综合,http://38.55.196.64/tw447/tw2.php?id=live1022
+TVB 亞洲綜藝台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13020
+TVB 粤语片台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13021
+TVB 亚洲剧台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13022
+TVB 华语剧台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13023
+TVB 功夫台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13024
+MUTV ,http://108.181.20.193:27347/livehttpplay?channel_id=13025
+TVB 戲曲台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13026
+TVB 黃金翡翠台 ,http://108.181.20.193:27347/livehttpplay?channel_id=13027中天综合,http://38.55.196.64/tw447/tw2.php?id=live1022
 中天娱乐,http://38.55.196.64/tw447/tw2.php?id=live1023
 中天新闻,http://38.55.196.64/tw447/tw2.php?id=live1675
 中视,http://38.55.196.64/tw447/tw2.php?id=live1048
