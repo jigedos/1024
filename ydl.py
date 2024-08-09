@@ -1,4 +1,4 @@
-24-5-24,#genre#
+24-8-10,#genre#
 大陆央视,#genre#
 CCTV1,mitv://generationnexxxt.com:19806/cff3529e8cf64e3195f997c50b5052e6
 CCTV2,mitv://generationnexxxt.com:19806/db4a43b89aa1499d805620313fef2e71
