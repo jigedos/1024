@@ -1,5 +1,6 @@
 {
 	"spider":"./pg.jar",
+	"spider":"./spider2.jar",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -148,7 +149,6 @@
 		{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://tv.youdu.fan:666/毒盒影视/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tv.nxog.top/m/js/采集之王.js?type=url&params=https://tv.nxog.top/m/json/采集静态.json"},
 
 {"key":"南瓜影视","name":"🍵南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"快看影视","name":"🍵快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天天影视","name":"🍵天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看看影视","name":"🍵看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"明日影视","name":"🍵明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
