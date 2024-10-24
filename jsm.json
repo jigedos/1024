@@ -23,7 +23,7 @@
 				"ratio": 1.5
 			}
 		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		{"key":"Local","name":"🖥️本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"💻我的资源","type":3,"jar":"./pg.jar", "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
@@ -91,7 +91,7 @@
 			"ext": "./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
 		},
 		{"key":"Ppxzy","name":"💾皮皮虾┃网盘","type":3,"jar":"./pg.jar","api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
-				{"key":"UP云搜","name":"阿里┃UP搜","type":3,"jar":"./pg.jar","api":"csp_UpYun","timeout":30, "ext":"./lib/tokenm.json",
+				{"key":"UP云搜","name":"🔍阿里┃UP搜","type":3,"jar":"./pg.jar","api":"csp_UpYun","timeout":30, "ext":"./lib/tokenm.json",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -125,7 +125,7 @@
 
 		{
 			"key": "賤賤",
-			"name": "荐片┃影视",
+			"name": "✅荐片┃影视",
 			"type": 3,
 			"api": "csp_Jianpian",
 			"searchable": 1,
@@ -133,36 +133,36 @@
 			"ext": "./lib/jianpian.json$$$1",
 			"timeout":60
 		},
-		{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://tv.youdu.fan:666/毒盒影视/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tv.nxog.top/m/js/采集之王.js?type=url&params=https://tv.nxog.top/m/json/采集静态.json"},
+		{"key":"采集之王","name":"✅采王┃采集","type":3,"api":"https://tv.youdu.fan:666/毒盒影视/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tv.nxog.top/m/js/采集之王.js?type=url&params=https://tv.nxog.top/m/json/采集静态.json"},
 
-{"key":"南瓜影视","name":"🎞️南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"天天影视","name":"🎞️天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"看看影视","name":"🎞️看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"腐剧视频","name":"🎞️腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
-{"key":"厂长资源","name":"🎞️厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
-{"key":"视频库","name":"🎞️视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
-{"key":"热播影视","name":"🎞️热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"农民影视","name":"🎞️农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
-{"key":"机器人","name":"🎞️机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
-{"key":"素白白","name":"🎞️素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
-{"key":"骚火影视","name":"🎞️骚火┃影视","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
-{"key":"在线之家","name":"🎞️在线┃之家","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
-{"key":"低端影视","name":"🎞️低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"忍者影视","name":"🎞️忍者┃影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
-{"key":"圣城影视","name":"🎞️圣城┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"南瓜影视","name":"✅南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"天天影视","name":"✅天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"看看影视","name":"✅看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"腐剧视频","name":"✅腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"厂长资源","name":"✅厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
+{"key":"视频库","name":"✅视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
+{"key":"热播影视","name":"✅热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"农民影视","name":"✅农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
+{"key":"机器人","name":"✅机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
+{"key":"素白白","name":"✅素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
+{"key":"骚火影视","name":"✅骚火┃影视","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1},
+{"key":"在线之家","name":"✅在线┃之家","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1},
+{"key":"低端影视","name":"✅低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"忍者影视","name":"✅忍者┃影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
+{"key":"圣城影视","name":"✅圣城┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"橙汁","name":"🎞️橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
-{"key":"热播之家","name":"🎞️热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
-{"key":"csp_mgtva","name":"🎞️木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
+{"key":"橙汁","name":"✅橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
+{"key":"热播之家","name":"✅热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
+{"key":"csp_mgtva","name":"✅木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
 
 
-{"key": "csp_xml_360","name": "🎞️360┃资源","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["爽文短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","NBA","惊悚片","家庭篇","历史片","古装片","悬疑片","犯罪片","灾难片","短片","动画片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]}, 
-{"key":"hnzy", "name":"🎞️红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"量子影视","name":"🎞️量子┃影视","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"ads":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"],"categories":["短剧","国产剧","日韩剧","港台剧","欧美剧","泰国剧","海外剧","国产动漫","日韩动漫","欧美动漫","国内综艺","海外综艺","动作片","喜剧片","爱情片","动画片","冒险片","武侠片","科幻片","战争片","恐怖片","灾难片","悬疑片","纪录片","惊悚片","奇幻片","剧情片"]},
-{"key":"非凡影视","name":"🎞️非凡┃影视","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key": "csp_xml_360","name": "✅360┃资源","type": 1,"api": "https://360zy.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["爽文短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","NBA","惊悚片","家庭篇","历史片","古装片","悬疑片","犯罪片","灾难片","短片","动画片","纪录片","台湾剧","大陆综艺","国产动漫","日韩动漫","西部片"]}, 
+{"key":"hnzy", "name":"✅红牛┃资源", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"量子影视","name":"✅量子┃影视","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"ads":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"],"categories":["短剧","国产剧","日韩剧","港台剧","欧美剧","泰国剧","海外剧","国产动漫","日韩动漫","欧美动漫","国内综艺","海外综艺","动作片","喜剧片","爱情片","动画片","冒险片","武侠片","科幻片","战争片","恐怖片","灾难片","悬疑片","纪录片","惊悚片","奇幻片","剧情片"]},
+{"key":"非凡影视","name":"✅非凡┃影视","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 		{
 			"key": "快看",
-			"name": "🎞️快看┃影视",
+			"name": "✅快看┃影视",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -172,7 +172,7 @@
 		},		
 		{
 			"key": "黑木耳",
-			"name": "🎞️木耳┃影视",
+			"name": "✅木耳┃影视",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
 			"searchable": 1,
@@ -180,7 +180,7 @@
 		},
 		{
 			"key": "索尼资源",
-			"name": "🎞️索尼┃影视",
+			"name": "✅索尼┃影视",
 			"type": 1,
 			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
 			"categories": [
