@@ -3,7 +3,7 @@
 	"spider":"./spider2.jar",
 	"sites":[
 {"key":"豆瓣",
-"name":"🎞️公众号【非凡小小】",
+"name":"🅰️公众号【非凡小小】",
 "type":3,
 "api":"csp_Douban",
 "searchable":0
@@ -11,7 +11,7 @@
 		
 		{
 			"key": "网盘配置",
-			"name": "网盘┃配置",
+			"name": "⚙网盘┃配置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
