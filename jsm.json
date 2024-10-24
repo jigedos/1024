@@ -11,7 +11,7 @@
 		
 		{
 			"key": "网盘配置",
-			"name": "网盘及彈幕=配置",
+			"name": "网盘┃配置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
@@ -24,55 +24,55 @@
 			}
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{"key":"PushShare","name":"我的资源=分享","type":3,"jar":"./pg.jar", "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
+		{"key":"PushShare","name":"我的资源","type":3,"jar":"./pg.jar", "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"AliShare","name":"阿里云盘=影视","type":3,"jar":"./pg.jar","api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+		{"key":"AliShare","name":"阿里┃云盘=影视","type":3,"jar":"./pg.jar","api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"AliShareEBook","name":"阿里云盘=书籍","type":3,"jar":"./pg.jar","api":"csp_AliShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
+		{"key":"AliShareEBook","name":"阿里┃云盘","type":3,"jar":"./pg.jar","api":"csp_AliShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"QuarkShare","name":"夸克云盘=分享","type":3,"jar":"./pg.jar","api":"csp_QuarkShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt",
+		{"key":"QuarkShare","name":"夸克┃云盘","type":3,"jar":"./pg.jar","api":"csp_QuarkShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"115Share","name":"115云盘=分享","type":3,"jar":"./pg.jar","api":"csp_P115Share","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
+		{"key":"115Share","name":"115┃云盘","type":3,"jar":"./pg.jar","api":"csp_P115Share","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"UCShare","name":"UC云盘=分享","type":3,"jar":"./pg.jar","api":"csp_UCShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+		{"key":"UCShare","name":"UC┃云盘","type":3,"jar":"./pg.jar","api":"csp_UCShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"ThunderShare","name":"迅雷云盘=分享","type":3,"jar":"./pg.jar","api":"csp_ThunderShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt",
+		{"key":"ThunderShare","name":"迅雷┃云盘","type":3,"jar":"./pg.jar","api":"csp_ThunderShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/thundershare.txt",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"PikPakShare","name":"PikPak=分享","type":3,"jar":"./pg.jar","api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
+		{"key":"PikPakShare","name":"PikPak┃云盘","type":3,"jar":"./pg.jar","api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"SambaShare","name":"Samba=分享","type":3,"jar":"./pg.jar","api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
+		{"key":"SambaShare","name":"Samba┃云盘","type":3,"jar":"./pg.jar","api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/sambashare.txt"},
 		{
 			"key": "直播转点播",
 			"name": "电视┃直播",
@@ -98,7 +98,7 @@
 			}
 		},
 		
-		{"key":"Wogg","name":"玩偶哥哥┃网盘","type":3,"jar":"./pg.jar","api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+		{"key":"Wogg","name":"玩偶┃网盘","type":3,"jar":"./pg.jar","api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
 		{"key":"蜡笔网盘","name":"蜡笔┃网盘","type":3,"jar":"./pg.jar","api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
 		{"key":"Mogg","name":"木偶哥哥┃网盘","type":3,"jar":"./pg.jar","api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
 
@@ -169,7 +169,16 @@
 {"key": "夕云","name": "💡夕云┃影视","type": 3,"api": "csp_XBPQ","jar": "./lib/xbpq新版.jar?inline=false","ext": {"首页": "电视剧$21","分类":"电影$20#电视剧$39#动漫$46#综艺$47","分类url":"https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"}},
 {"key":"大师兄","name":"💡大师兄┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar": "./lib/xbpq新版.jar?inline=false"},
 {"key": "csp_虾酱影视","name": "💡虾酱┃影视","type": 3,"api": "csp_XBPQ","jar": "./lib/xbpq新版.jar?inline=false","ext": {"数组": "class=\"module-poster-item&&poster-item-info\">&&</a","副标题":"module-item-note\">&&</div>","图片": "data-original=\"&&\"","线路数组": "class=\"module-tab-item tab-item\"&&</div>","线路标题": "+<span>&&</small>[替换:</span><small>>>共]+集","播放数组": "module-play-list\">&&</div","搜索url": "https://www.xiajiangzj.top/vod/search.html?wd={wd}","搜索数组": "class=\"module-card-item&&module-card-item-footer\">&&</div","搜索图片": "data-original=\"&&\"","搜索副标题": "module-item-note\">&&</div","分类url": "https://www.xiajiangzj.top/vod/show/by/{by}/id/{cateId}/page/{catePg}.html","分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$28"}},
-		
+		{
+			"key": "快看",
+			"name": "快看┃影视",
+			"type": 3,
+			"api": "csp_Kuaikan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0,
+			"filterable": 1
+		},		
 		{
 			"key": "黑木耳",
 			"name": "木耳┃影视",
@@ -221,6 +230,25 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
+//阿里
+{"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/json/wog.json"},
+{"key":"️玩偶弟","name":"❤️玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/json/wod.json"},
+{"key":"️玩偶姐","name":"❤️玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/json/woj.json"},
+//{"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/json/wom.json"},
+{"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/json/yps.json"},
+{"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+
+//磁力
+{"key":"荐片","name":"💘荐片┃磁力","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
+{"key":"New6v","name":"💘New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
+{"key":"SeedHub","name":"💘SeedHub┃磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"美剧迷","name":"💘美剧迷┃磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"迅雷吧","name":"💘迅雷吧┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Mp4电影","name":"💘Mp4电影┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷吧电影","name":"💘酷吧┃磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"美剧天堂","name":"💘美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 
 		{"key":"drpy_js_MP4US","name":"MP4电影┃磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"4KHDR","name":"4KHDR┃磁力","type":3,"jar":"./pg.jar","api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
@@ -245,17 +273,16 @@
 		{"key":"BLSGod","name":"BLSGod┃磁力","type":3,"jar":"./pg.jar","api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8┃磁力","type":3,"jar":"./pg.jar","api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub┃磁力","type":3,"jar":"./pg.jar","api":"csp_SeedHub","changeable":1, "timeout":60},
-		{
-			"key": "快看",
-			"name": "快看┃影视",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"filterable": 1
-		},
-		
+
+//短剧
+{"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},    
+{"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},
+{"key":"星芽短剧","name":"🐞星芽┃短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"csp_XBPQ_VS短剧","name":"🐞影院┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
+{"key":"csp_XBPQ_胖嘟嘟","name":"🐞嘟嘟┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
+
+//动漫
+{"key":"暮暮动漫","name":"🚗暮暮┃动漫","type":3,"api":"csp_WebMuTeFun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.mutean.com"},		
 		{
 			"key": "巴士",
 			"name": "巴士┃动漫",
