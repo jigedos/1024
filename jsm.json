@@ -2,16 +2,12 @@
 
 	"spider":"./spider2.jar",
 	"sites":[
-		{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "./lib/tokenm.json$$$./lib/douban.json"
-		},
+{"key":"豆瓣",
+"name":"🍵公众号【非凡小小】",
+"type":3,
+"api":"csp_Douban",
+"searchable":0
+},
 		
 		{
 			"key": "网盘配置",
