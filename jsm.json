@@ -1,5 +1,14 @@
 {
   "spider": "./spider2.jar",
+  
+"lives":[
+        {
+            "name": "live",
+            "type": 0,
+            "url": "http://23.224.143.163:2202/vip/ku9",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+        }
+],
   "sites": [
     {
       "key": "豆瓣",
