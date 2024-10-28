@@ -5,7 +5,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://23.224.143.163:2202/vip/ku9",
+            "url": "http://23.224.143.163:2202/vip/ku9.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
 ],
