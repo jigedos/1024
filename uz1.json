@@ -1,0 +1,1254 @@
+[
+  {
+    "name": "酷云影视",
+   
+   
+    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
+    "api": "http://api.kunyu77.com/api.php/provide/"
+  },
+  {
+    "name": "手指APP",
+   
+   
+    
+    "api": "https://szys5678.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "小鱼影视",
+   
+   
+    
+    "api": "https://www.mczdyw.com/api.php/app/"
+  },
+  {
+    "name": "天空影视",
+   
+   
+    
+    "api": "https://www.tkys.tv/xgapp.php/v1/"
+  },
+  {
+    "name": "猪蹄影视",
+   
+   
+    
+    "api": "http://ccxg.xazhutu.com/xgapp.php/v1/"
+  },
+  {
+    "name": "苍蓝影视",
+   
+   
+    
+    "api": "https://vip.ruifenglb.com:4433/api.php/app/"
+  },
+  {
+    "name": "琳琅影视",
+   
+   
+    
+    "api": "https://www.u23c.com/api.php/app/"
+  },
+  {
+    "name": "DC琅影视",
+   
+   
+    
+    "api": "http://chaorenbb.com/api.php/v1.vod"
+  },
+  {
+    "name": "饭团影视",
+    "播放UA": "User-Agent#Dart/2.14 (dart:io)&&&origin#https://ptwo.wkfile.com",
+    
+    "api": "http://television.wkfile.com/api.php/app/"
+  },
+  {
+    "name": "看看剧",
+   
+   
+    
+    "api": "https://www.kankanju.cn/api.php/v1.vod"
+  },
+  {
+    "name": "冷视TV",
+   
+   
+    
+    "api": "https://len.tv/api.php/v1.vod"
+  },
+  {
+    "name": "1080p影院",
+   
+   
+    
+    "api": "https://1080p.one/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "CJT影院",
+   
+   
+    
+    "api": "https://www.cjt521.com/api.php/v1.vod"
+  },
+  {
+    "name": "HG影院",
+   
+   
+    
+    "api": "http://hgyx.vip/api.php/v1.vod"
+  },
+  {
+    "name": "爱看美剧",
+   
+   
+    
+    "api": "https://www.uumjw.com/api.php/v1.vod"
+  },
+  {
+    "name": "独播社",
+   
+   
+    
+    "api": "http://35ys.cc/api.php/v1.vod"
+  },
+  {
+    "name": "段友影视",
+   
+   
+    
+    "api": "https://shangjihuoke.com/api.php/v1.vod"
+  },
+  {
+    "name": "虎猫视频",
+   
+   
+    
+    "api": "https://humaosp.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "可米影视",
+   
+   
+    
+    "api": "http://www.kmysw.vip/api.php/v1.vod"
+  },
+  {
+    "name": "69ty影视",
+   
+   
+    
+    "api": "http://www.69ty.cc/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "麻瓜影视",
+   
+   
+    
+    "api": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "美剧虫",
+   
+   
+    
+    "api": "https://meijuchong.com/api.php/v1.vod"
+  },
+  {
+    "name": "暖光影视",
+   
+   
+    
+    "api": "https://app.bl210.com/api.php/v1.vod"
+  },
+  {
+    "name": "奈菲迷",
+   
+   
+    
+    "api": "https://app.netflixmi.com/api.php/v1.vod"
+  },
+  {
+    "name": "柠柚影视",
+   
+   
+    
+    "api": "http://nu.e4tv.cn/lvdou_api.php/v1.vod"
+  },
+  {
+    "name": "小极影视",
+   
+   
+    
+    "api": "http://app.8d8q.com/api.php/v1.vod"
+  },
+  {
+    "name": "雪人资源",
+   
+   
+    
+    "api": "https://zy.qd234.cn/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "益达影院",
+   
+   
+    
+    "api": "http://luobu.yss6080.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "雨果影院",
+   
+   
+    
+    "api": "http://ygapp.xcys63.com/api.php/v1.vod"
+  },
+  {
+    "name": "影阅阁",
+   
+   
+    
+    "api": "http://221.236.18.12:665/api.php/v1.vod"
+  },
+  {
+    "name": "追剧吧",
+   
+   
+    
+    "api": "http://zhuiju8.vip/api.php/v1.vod"
+  },
+  {
+    "name": "U5影视",
+   
+   
+    
+    "api": "https://appx.uy07.com/api.php/v1.vod"
+  },
+  {
+    "name": "YOYO影视",
+   
+   
+    
+    "api": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod"
+  },
+  {
+    "name": "爱影视",
+   
+   
+    
+    "api": "https://www.hzlff.cn/api.php/v1.vod"
+  },
+  {
+    "name": "艾特影视",
+   
+   
+    
+    "api": "https://www.aitee.cc/api.php/v1.vod"
+  },
+  {
+    "name": "豆渣影视",
+   
+   
+    
+    "api": "http://douzhayss.cc/api.php/v1.vod"
+  },
+  {
+    "name": "黄河影视",
+   
+   
+    
+    "api": "http://i.ledu8.cn/api.php/v1.vod"
+  },
+  {
+    "name": "盒子影院",
+   
+   
+    
+    "api": "http://i.nihaohezi.com/api.php/v1.vod"
+  },
+  {
+    "name": "筋斗云影院",
+   
+   
+    
+    "api": "https://tv.jindcloud.com/api.php/v1.vod"
+  },
+  {
+    "name": "极光影院",
+   
+   
+    
+    "api": "http://app.winxz.cc/api.php/v1.vod"
+  },
+  {
+    "name": "橘子影视",
+   
+   
+    
+    "api": "http://jz.juzidy.vip/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "看剧吧",
+   
+   
+    
+    "api": "http://app.ishen520.com/api.php/v1.vod"
+  },
+  {
+    "name": "蓝光视频",
+   
+   
+    
+    "api": "http://vip.91iqiyi.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "林谷影院",
+   
+   
+    
+    "api": "http://ys.linguyy.xyz/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "美剧范",
+   
+   
+    
+    "api": "http://ttzmz.net/api.php/v1.vod"
+  },
+  {
+    "name": "皮皮动漫",
+   
+   
+    
+    "api": "http://dm.muying.me/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "奇趣影视",
+   
+   
+    
+    "api": "https://app.qiqu.me/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "思奇影视",
+   
+   
+    
+    "api": "http://app.siqitv.vip/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "三日影视",
+   
+   
+    
+    "api": "https://www.3ri.net/api.php/v1.vod"
+  },
+  {
+    "name": "视听星球",
+   
+   
+    
+    "api": "http://zjyapijzys.shynwlkj.com/api.php/v1.vod"
+  },
+  {
+    "name": "淘剧社",
+   
+   
+    
+    "api": "https://app.shuhai99.com/api.php/v1.vod"
+  },
+  {
+    "name": "天天视频",
+   
+   
+    
+    "api": "http://app.qianju.cc/api.php/v1.vod"
+  },
+  {
+    "name": "快云影院",
+   
+   
+    
+    "api": "https://www.kuaiyunyy.com/api.php/app/"
+  },
+  {
+    "name": "兔子窝",
+   
+   
+    
+    "api": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "吾爱影院",
+   
+   
+    
+    "api": "http://app.5lp.net/api.php/v1.vod"
+  },
+  {
+    "name": "蜗牛动漫",
+   
+   
+    
+    "api": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "熊猫动漫",
+   
+   
+    
+    "api": "http://dongman.k8aa.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "蜻蜓影视",
+   
+   
+    
+    "api": "http://3ketv.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "星球视频",
+   
+   
+    
+    "api": "http://119.29.121.48:8088/api.php/v1.vod"
+  },
+  {
+    "name": "玺心影视",
+   
+   
+    
+    "api": "https://tv.arbd.cn/api.php/v1.vod"
+  },
+  {
+    "name": "樱花动漫",
+   
+   
+    
+    "api": "https://www.dmwu.cc/api.php/v1.vod"
+  },
+  {
+    "name": "影视热剧",
+   
+   
+    
+    "api": "http://lb.26ys.cn/api.php/v1.vod"
+  },
+  {
+    "name": "鱼鱼影视",
+   
+   
+    
+    "api": "http://luobo.yugenye.site/api.php/v1.vod"
+  },
+  {
+    "name": "柚子视频",
+   
+   
+    
+    "api": "http://yz.26ys.cn/api.php/v1.vod"
+  },
+  {
+    "name": "追剧猫",
+   
+   
+    
+    "api": "http://tv.kmtvb.com/api.php/v1.vod"
+  },
+  {
+    "name": "猪猪影院",
+   
+   
+    
+    "api": "http://app.2zdyy.com/api.php/v1.vod"
+  },
+  {
+    "name": "913E影院",
+   
+   
+    
+    "api": "http://www.913e.net/xgapp.php/v1/"
+  },
+  {
+    "name": "360影院",
+   
+   
+    
+    "api": "http://360yy.cn/api.php/app/"
+  },
+  {
+    "name": "爱迪影视",
+   
+   
+    
+    "api": "https://aidi.fun/xgapp.php/v1/"
+  },
+  {
+    "name": "播放呀",
+   
+   
+    
+    "api": "https://www.bofangya.com/xgapp.php/v1/"
+  },
+  {
+    "name": "嘀哩嘀哩",
+   
+   
+    
+    "api": "http://dilidili.la/api.php/app/"
+  },
+  {
+    "name": "非凡TV",
+   
+   
+    
+    "api": "https://app.feifan.live:2087/xgapp.php/v1/"
+  },
+  {
+    "name": "海胆影院",
+   
+   
+    
+    "api": "http://xf123.cc/api.php/app/"
+  },
+  {
+    "name": "京广航影视",
+   
+   
+    
+    "api": "https://www.jingguanhang.com/api.php/app/"
+  },
+  {
+    "name": "久九影视",
+   
+   
+    
+    "api": "https://api.58qxk.cn/xgapp.php/v1/"
+  },
+  {
+    "name": "365影视",
+   
+   
+    
+    "api": "https://www.kan365.xyz/api.php/app/"
+  },
+  {
+    "name": "萌蛋蛋影视",
+   
+   
+    
+    "api": "http://app.mengdandan.com/xgapp.php/v1/"
+  },
+  {
+    "name": "皮皮影视",
+   
+   
+    
+    "api": "http://pp.ig4.cn/api.php/app/"
+  },
+  {
+    "name": "神马电影",
+   
+   
+    
+    "api": "https://www.6080kan.cc/xgapp.php/v1/"
+  },
+  {
+    "name": "躺平影视",
+   
+   
+    
+    "api": "http://www.lltpys.com/api.php/app/"
+  },
+  {
+    "name": "星空影视",
+   
+   
+    
+    "api": "https://xkys.tv/xgapp.php/v1/"
+  },
+  {
+    "name": "小七影视",
+   
+   
+    
+    "api": "http://ys.kd60.cn/api.php/app/"
+  },
+  {
+    "name": "雪人影视",
+   
+   
+    
+    "api": "http://qqtvapp.com/xgapp.php/v1/"
+  },
+  {
+    "name": "映迷影院",
+   
+   
+    
+    "api": "https://www.inmi.app/xgapp.php/v1/"
+  },
+  {
+    "name": "六神追剧",
+   
+   
+    
+    "api": "http://l.520say.cn/api.php/app/"
+  },
+  {
+    "name": "耀协影视",
+   
+   
+    
+    "api": "http://jx.yaoxieyy.xyz/api.php/v1.vod"
+  },
+  {
+    "name": "千寻时光",
+   
+   
+    
+    "api": "http://wy.dqyhg.cn/api.php/provide/vod/"
+  },
+  {
+    "name": "思古影院",
+   
+   
+    
+    "api": "https://www.siguyy.com/api.php/provide/vod/"
+  },
+  {
+    "name": "爱西西",
+   
+   
+    
+    "api": "https://myaixixi.com/xgapp.php/v1/"
+  },
+  {
+    "name": "南府影视",
+   
+   
+    
+    "api": "http://iapp.nfuxs.club/dnmb.php/v1.vod"
+  },
+  {
+    "name": "闪电影视",
+   
+   
+    
+    "api": "http://sdzyapi.com/api.php/provide/vod/"
+  },
+  {
+    "name": "奈飞迷APP",
+   
+   
+    
+    "api": "https://app.netflixmi.com/ruifenglb_api.php/v1.vod"
+  },
+  {
+    "name": "菜鸟动漫",
+   
+   
+    
+    "api": "http://taikong.huangguay.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "寻常影视",
+   
+   
+    
+    "api": "http://tv.91ymz.cn/api.php/v1.vod"
+  },
+  {
+    "name": "任性看",
+   
+   
+    
+    "api": "https://renxingkan.net/api.php/v1.vod"
+  },
+  {
+    "name": "晗先森",
+   
+   
+    
+    "api": "https://hantv.top/api.php/v1.vod"
+  },
+  {
+    "name": "火星人",
+   
+   
+    
+    "api": "https://www.huoxing9.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "嗷呜影院",
+   
+   
+    
+    "api": "http://aowu.pro/api.php/v1.vod"
+  },
+  {
+    "name": "XG影视",
+   
+   
+    
+    "api": "http://cms.xggm.top/ruifenglb_api.php/v1.vod"
+  },
+  {
+    "name": "JDODO",
+   
+   
+    
+    "api": "https://appys.jdodo.xyz/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "51视频",
+   
+   
+    
+    "api": "http://51shipin.cc/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "小白动漫",
+   
+   
+    
+    "api": "http://121.62.60.222:20222/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "闪光影视",
+   
+   
+    
+    "api": "http://101.35.128.192/mubai_api.php/m2.vod"
+  },
+  {
+    "name": "叮当影视",
+   
+   
+    
+    "api": "https://tv.0573wl.com/api.php/v1.vod/"
+  },
+  {
+    "name": "300看世界",
+   
+   
+    
+    "api": "https://300ys.xyz/api.php/v1.vod"
+  },
+  {
+    "name": "毒舌电影",
+   
+   
+    
+    "api": "http://cms.96ym.cn/api.php/app/"
+  },
+  {
+    "name": "神马资源",
+   
+   
+    
+    "api": "http://www.zitv.cc/api.php/provide/vod/"
+  },
+  {
+    "name": "抹茶猪",
+   
+   
+    
+    "api": "https://www.mczdyw.com/xgapp.php/v1/"
+  },
+  {
+    "name": "思古App",
+   
+   
+    
+    "api": "https://app.siguyy.com/xgapp.php/v1/"
+  },
+  {
+    "name": "913E影视",
+   
+   
+    
+    "api": "http://www.913e.net/api.php/app/"
+  },
+  {
+    "name": "萌果",
+   
+   
+    
+    "api": "http://api.appearoo.top/api.php/provide/vod/"
+  },
+  {
+    "name": "热播",
+   
+   
+    
+    "api": "http://app.reboju.net/api.php/provide/vod/"
+  },
+  {
+    "name": "青苹果",
+   
+   
+    
+    "api": "http://www.aiyy.tv/xgapp.php/v1/"
+  },
+  {
+    "name": "星影相随",
+   
+   
+    
+    "api": "http://app.rootthree.top/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "星一蓝光",
+   
+   
+    
+    "api": "https://lgku.suboyun.cn/api.php/provide/vod/"
+  },
+  {
+    "name": "杨桃影视",
+   
+   
+    
+    "api": "https://ytys3456.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "大熊影视",
+   
+   
+    
+    "api": "https://dxys2233.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "全能资源",
+   
+   
+    
+    "api": "https://qnys5566.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "六神影视",
+   
+   
+    
+    "api": "http://6s666.520say.cn/api.php/provide/vod/"
+  },
+  {
+    "name": "龙腾资源",
+   
+   
+    
+    "api": "https://www.mczdyw.com/api.php/provide/vod/"
+  },
+  {
+    "name": "融兴资源",
+   
+   
+    
+    "api": "https://997.yuanmajs.cn/api.php/provide/vod/"
+  },
+  {
+    "name": "人人迷资源",
+   
+   
+    
+    "api": "https://video.yingworld.vip/api.php/provide/vod/"
+  },
+  {
+    "name": "老弟资源",
+   
+   
+    
+    "api": "https://www.vp1127.com/api.php/provide/vod/"
+  },
+  {
+    "name": "诺迅资源",
+   
+   
+    
+    "api": "https://caiji.nxflv.com/api.php/provide/vod/"
+  },
+  {
+    "name": "灯塔资源",
+   
+   
+    
+    "api": "http://vip.hwh.ink/api.php/provide/vod/"
+  },
+  {
+    "name": "1920官采",
+   
+   
+    
+    "api": "http://zy.1920i.com/api.php/provide/vod/"
+  },
+  {
+    "name": "剧白白",
+   
+   
+    
+    "api": "https://v.pipitu.top/xgapp.php/v2/"
+  },
+  {
+    "name": "OMO动漫",
+   
+   
+    
+    "api": "https://www.omofun.com/api.php/provide/vod/"
+  },
+  {
+    "name": "天空影视2",
+   
+   
+    
+    "api": "https://www.tkys.tv/xgapp.php/v2/"
+  },
+  {
+    "name": "4K影院",
+   
+   
+    
+    "api": "http://1api.4kdytv.com/api.php/v1.vod"
+  },
+  {
+    "name": "好看剧",
+   
+   
+    
+    "api": "http://bc.haokanju1.cc/lvdou_api.php/v1.vod"
+  },
+  {
+    "name": "爱酷影视",
+   
+   
+    
+    "api": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+  },
+  {
+    "name": "菜鸟追剧",
+   
+   
+    
+    "api": "http://81.71.18.95:5555/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "白嫖影视",
+   
+   
+    
+    "api": "http://zgjxdtg.cn/api.php/v1.vod"
+  },
+  {
+    "name": "初心影视",
+   
+   
+    
+    "api": "https://www.18mv.club/api.php/v1.vod"
+  },
+  {
+    "name": "粉象影视",
+   
+   
+    
+    "api": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"
+  },
+  {
+    "name": "康耀影视",
+   
+   
+    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
+    "api": "http://124.222.126.23:999/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "六把刀",
+   
+   
+    
+    "api": "https://pro.6bd.net/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "琅琊影视",
+   
+   
+    
+    "api": "http://fgyuu.top/lehailb_api.php/v1.vod"
+  },
+  {
+    "name": "蜜蜂影视",
+   
+   
+    
+    "api": "http://app.f8tp.com/lvdou_api.php/v1.vod"
+  },
+  {
+    "name": "思乐影视",
+   
+   
+    
+    "api": "https://www.huandian.top/ruifenglb_api.php/v1.vod"
+  },
+  {
+    "name": "天成影视",
+   
+   
+    
+    "api": "http://tcspvip.cn/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "天天影视",
+   
+   
+    
+    "api": "https://app.daishusc.com/api.php/v1.vod"
+  },
+  {
+    "name": "BL资源",
+   
+   
+    
+    "api": "https://bljiex.com/api.php/provide/vod/"
+  },
+  {
+    "name": "蘑菇资源",
+   
+   
+    
+    "api": "https://www.77diany.com/api.php/provide/vod/"
+  },
+  {
+    "name": "喵派对资源",
+   
+   
+    
+    "api": "http://zy.yilans.net:8090/api.php/provide/vod/"
+  },
+  {
+    "name": "番茄资源",
+   
+   
+    
+    "api": "http://api.fqzy.cc/seacmsapi.php/provide/vod/"
+  },
+  {
+    "name": "天空云资源",
+   
+   
+    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/"
+  },
+  {
+    "name": "片库资源",
+   
+   
+    
+    "api": "https://pianku.wang/api.php/provide/vod/"
+  },
+  {
+    "name": "天堂资源",
+   
+   
+    
+    "api": "http://vipmv.cc/api.php/provide/vod/"
+  },
+  {
+    "name": "追剧王",
+   
+   
+    
+    "api": "http://app1.udo.cc/api.php/app/"
+  },
+  {
+    "name": "云海资源",
+   
+   
+    
+    "api": "http://101.34.7.151:600/api.php/provide/vod/"
+  },
+  {
+    "name": "速播云资源",
+   
+   
+    
+    "api": "https://gcku.suboyun.vip/api.php/provide/vod/"
+  },
+  {
+    "name": "无尽资源",
+   
+   
+    
+    "api": "https://wujinzy.com/api.php/provide/vod/"
+  },
+  {
+    "name": "39看",
+   
+   
+    
+    "api": "https://www.39kan.com/api.php/provide/vod/"
+  },
+  {
+    "name": "小蜻蜓APP",
+   
+   
+    
+    "api": "http://3ketv.com/api.php/provide/vod/"
+  },
+  {
+    "name": "ZW直链",
+   
+   
+    
+    "api": "https://www.zwcoco.com/api.php/provide/vod/"
+  },
+  {
+    "name": "飞鱼影视",
+   
+   
+    
+    "api": "https://app.feiyu5.com/api.php/provide/vod/"
+  },
+  {
+    "name": "乐播影视",
+   
+   
+    
+    "api": "https://lbapi9.com/api.php/provide/vod/"
+  },
+  {
+    "name": "飓风影视",
+   
+   
+    
+    "api": "http://jf.35ys.cc/lehailb_api.php/v1.vod"
+  },
+  {
+    "name": "每天看看",
+   
+   
+    
+    "api": "http://47.113.126.237:1234/api.php/provide/vod/"
+  },
+  {
+    "name": "心鸾影视",
+   
+   
+    
+    "api": "http://xinluan.jiangxs.vip/xgapp.php/v2/"
+  },
+  {
+    "name": "追剧达人",
+   
+   
+    
+    "api": "https://vipmv.co/xgapp.php/v2/"
+  },
+  {
+    "name": "洋葱影视",
+   
+   
+    
+    "api": "http://www.ycrjk.top/api.php/app/"
+  },
+  {
+    "name": "宽剧影视",
+   
+   
+    
+    "api": "https://wp.kuanjv.com/xgapp.php/v2/"
+  },
+  {
+    "name": "看看影视",
+   
+   
+    
+    "api": "http://kk.ccboke.top/ruifenglb_api.php/v1.vod"
+  },
+  {
+    "name": "九和电影",
+   
+   
+    
+    "api": "https://ptygx.com/api.php/app/"
+  },
+  {
+    "name": "红牛资源",
+   
+   
+    "搜索UA": "User-Agent#Dalvik/2.1.0 (Linux; U; Android 10; VOG-AL00 Build/HUAWEIVOG-AL00)",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+  },
+  {
+    "name": "酷点影视",
+   
+   
+    
+    "api": "http://ys.kudian6.com/api.php/provide/vod/"
+  },
+  {
+    "name": "555电影",
+   
+   
+    
+    "api": "https://www.555dy5.com/api.php/app/"
+  },
+  {
+    "name": "皮茶熊TV",
+   
+   
+    
+    "api": "https://www.psinu.com/api.php/provide/vod/"
+  },
+  {
+    "name": "考拉视频",
+   
+   
+    
+    "api": "https://ikaola.tv/api.php/provide/vod/"
+  },
+  {
+    "name": "云梦影视",
+   
+   
+    
+    "api": "https://yun.yunl.xyz/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "月儿影视",
+   
+   
+    
+    "api": "https://yue52.xyz/api.php/v1.vod"
+  },
+  {
+    "name": "爱看影视",
+   
+   
+    "搜索UA": "User-Agent#Dalvik/2.1.0 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; BOIE9;ZHCN)",
+    "api": "http://tvcms.ikan6.vip/nicaibudaowojiaosha.php/provide/vod/"
+  },
+  {
+    "name": "极酷影视",
+   
+   
+    
+    "api": "https://jiku.vip/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "哆啦咪影视",
+   
+   
+    "搜索UA": "User-Agent#Dart/2.15 (dart:io)",
+    "api": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"
+  },
+  {
+    "name": "QC影视",
+   
+   
+    
+    "api": "https://www.qcsvip.com/mogai_api.php/v1.vod"
+  },
+  {
+    "name": "阿里影视",
+   
+   
+    
+    "api": "http://aliys.cn:90/api.php/v1.vod"
+  }
+]
