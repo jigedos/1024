@@ -1,14 +1,13 @@
 {
   "spider": "./spider2.jar",
-  
-"lives":[
-        {
-            "name": "live",
-            "type": 0,
-            "url": "http://23.224.143.163:2202/vip/ku9.txt",
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-        }
-],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "http://23.224.143.163:2202/vip/ku9.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+    }
+  ],
   "sites": [
     {
       "key": "豆瓣",
@@ -267,8 +266,6 @@
       "api": "./lib/live2vod.js",
       "ext": "./lib/feimaolive.json"
     },
- 
-  
     {
       "key": "腐剧视频",
       "name": "✅腐剧┃影视",
@@ -277,7 +274,6 @@
       "searchable": 1,
       "changeable": 1
     },
-  
     {
       "key": "视频库",
       "name": "✅视频┃影视",
@@ -288,8 +284,6 @@
       "filterable": 0,
       "ext": "https://vidhub1.cc"
     },
-   
-  
     {
       "key": "机器人",
       "name": "✅机器┃影视",
@@ -300,7 +294,6 @@
       "changeable": 1,
       "ext": "https://v.aikanbot.com"
     },
-  
     {
       "key": "骚火影视",
       "name": "✅骚火┃影视",
@@ -336,8 +329,6 @@
       "filterable": 1,
       "ext": "http://rzys.xyz/"
     },
-
-
     {
       "key": "热播之家",
       "name": "✅热播┃影视",
@@ -348,7 +339,6 @@
         "分类url": "https://rebozj.pro/type/{cateId}.html"
       }
     },
-
     {
       "key": "csp_xml_360",
       "name": "✅360┃资源",
@@ -484,7 +474,6 @@
       "changeable": 0,
       "filterable": 1
     },
-   
     {
       "key": "索尼资源",
       "name": "✅索尼┃影视",
@@ -619,7 +608,6 @@
       "changeable": 1,
       "timeout": 60
     },
-  
     {
       "key": "精品短剧",
       "name": "🎬精品┃短剧",
@@ -637,7 +625,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
- 
     {
       "key": "酷狗",
       "name": "🎤酷狗┃音乐",
@@ -648,8 +635,6 @@
       "changeable": 0
     },
     {
-  
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -659,7 +644,6 @@
       "ext": "./lib/tokenm.json"
     }
   ],
-
   "doh": [
     {
       "name": "Google",
