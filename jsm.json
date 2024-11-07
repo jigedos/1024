@@ -268,16 +268,7 @@
       "ext": "./lib/feimaolive.json"
     },
  
-    {
-      "key": "天天影视",
-      "name": "✅天天┃影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
+  
     {
       "key": "腐剧视频",
       "name": "✅腐剧┃影视",
@@ -286,16 +277,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "厂长资源",
-      "name": "✅厂长┃影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://czzy.top"
-    },
+  
     {
       "key": "视频库",
       "name": "✅视频┃影视",
@@ -306,23 +288,8 @@
       "filterable": 0,
       "ext": "https://vidhub1.cc"
     },
-    {
-      "key": "热播影视",
-      "name": "✅热播┃影视",
-      "type": 3,
-      "api": "csp_AppRB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "农民影视",
-      "name": "✅农民┃影视",
-      "type": 3,
-      "api": "csp_WexNmys",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
+  
     {
       "key": "机器人",
       "name": "✅机器┃影视",
@@ -333,14 +300,7 @@
       "changeable": 1,
       "ext": "https://v.aikanbot.com"
     },
-    {
-      "key": "素白白",
-      "name": "✅素白┃影视",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "searchable": 1,
-      "changeable": 1
-    },
+  
     {
       "key": "骚火影视",
       "name": "✅骚火┃影视",
@@ -376,25 +336,8 @@
       "filterable": 1,
       "ext": "http://rzys.xyz/"
     },
-    {
-      "key": "圣城影视",
-      "name": "✅圣城┃影视",
-      "type": 3,
-      "api": "csp_SC1080",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "橙汁",
-      "name": "✅橙汁┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类": "短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5",
-        "分类url": "https://ork.ink/show/{cateId}--------{catePg}---{year}.html"
-      }
-    },
+
+
     {
       "key": "热播之家",
       "name": "✅热播┃影视",
@@ -405,17 +348,7 @@
         "分类url": "https://rebozj.pro/type/{cateId}.html"
       }
     },
-    {
-      "key": "csp_mgtva",
-      "name": "✅木瓜┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影&电视剧&综艺&动漫",
-        "分类值": "dianying&lianxuju&zongyi&dongman"
-      }
-    },
+
     {
       "key": "csp_xml_360",
       "name": "✅360┃资源",
@@ -551,14 +484,7 @@
       "changeable": 0,
       "filterable": 1
     },
-    {
-      "key": "黑木耳",
-      "name": "✅木耳┃影视",
-      "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+   
     {
       "key": "索尼资源",
       "name": "✅索尼┃影视",
@@ -693,14 +619,7 @@
       "changeable": 1,
       "timeout": 60
     },
-    {
-      "key": "良品短剧",
-      "name": "🎬良品┃短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuvip",
-      "searchable": 1,
-      "changeable": 1
-    },
+  
     {
       "key": "精品短剧",
       "name": "🎬精品┃短剧",
@@ -718,25 +637,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "巴士",
-      "name": "💡巴士┃动漫",
-      "type": 3,
-      "jar": "./pg.jar",
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "ting",
-      "name": "听书",
-      "type": 3,
-      "api": "csp_BookTing",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://m.ting275.com#公众号#影视资源站",
-      "jar": "./jar/xb.jar"
-    },
+ 
     {
       "key": "酷狗",
       "name": "🎤酷狗┃音乐",
@@ -747,14 +648,7 @@
       "changeable": 0
     },
     {
-      "key": "Yinyuetai",
-      "name": "🎤音悦┃音乐",
-      "type": 3,
-      "jar": "./pg.jar",
-      "api": "csp_Yinyuetai",
-      "searchable": 1,
-      "changeable": 0
-    },
+  
     {
       "key": "push_agent",
       "name": "推送",
